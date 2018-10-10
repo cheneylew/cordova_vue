@@ -1,5 +1,6 @@
 思路：采用vue来编写H5本地化页面，使用cordova使得本地H5具备调用原生功能的能力，如相机、照片等。
-接下来你就可以愉快的使用vue来编写跨平台应用了。nice！另外也包含framework7+vue的目录。
+接下来你就可以愉快的使用vue来编写跨平台应用了。nice！
+另外也包含framework7+vue的目录，模板克隆自：https://github.com/framework7io/framework7-template-vue-webpack
 #### 1.克隆仓库
 ```
 git clone https://github.com/cheneylew/cordova_vue.git
