@@ -45,5 +45,3 @@ var app = {
 };
 
 app.initialize();
-
-alert("cordova init");

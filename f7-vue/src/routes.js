@@ -1,6 +1,7 @@
 import HomePage from './pages/home.vue';
 import AboutPage from './pages/about.vue';
 import FormPage from './pages/form.vue';
+import TestPage from './pages/test.vue';
 import DynamicRoutePage from './pages/dynamic-route.vue';
 import NotFoundPage from './pages/not-found.vue';
 
@@ -27,6 +28,10 @@ export default [
   {
     path: '/form/',
     component: FormPage,
+  },
+  {
+    path: '/test/',
+    component: TestPage,
   },
   {
     path: '/dynamic-route/blog/:blogId/post/:postId/',
